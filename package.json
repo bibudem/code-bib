@@ -1,19 +1,19 @@
 {
-  "name": "code-bib",
-  "version": "1.0.0",
-  "description": "Une liste des codes de bibliothèques de l'Université de Montréal.",
-  "main": "bib.json",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/remillc/code-bib.git"
-  },
-  "author": {
-    "name": "Christian Rémillard",
-    "email": "christian.remillard@gmail.com"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/remillc/code-bib/issues"
-  },
-  "homepage": "https://github.com/remillc/code-bib"
+	"name": "code-bib",
+	"version": "2.0.0",
+	"description": "Une liste des codes de bibliothèques de l'Université de Montréal.",
+	"main": "bib.json",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/remillc/code-bib.git"
+	},
+	"author": {
+		"name": "Christian Rémillard",
+		"email": "christian.remillard@gmail.com"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/remillc/code-bib/issues"
+	},
+	"homepage": "https://github.com/remillc/code-bib"
 }
