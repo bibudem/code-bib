@@ -5,7 +5,7 @@
 	},
 	"antenne-paramedicale": {
 		"long": "Antenne paramédicale - 7077 avenue du Parc",
-		"court": "Antenne - 7077 avenue du Parc"
+		"court": "7077 avenue du Parc"
 	},
 	"bv": {
 		"long": "Bibliothèque de botanique",
@@ -20,7 +20,7 @@
 		"court": "Chimie"
 	},
 	"conservation": {
-		"long": "Centre de conservation / Dépôt Youville",
+		"long": "Centre de conservation",
 		"court": "Centre de conservation"
 	},
 	"cs": {
@@ -82,5 +82,9 @@
 	"ss": {
 		"long": "Bibliothèque des lettres et sciences humaines",
 		"court": "Lettres et sciences humaines"
+	},
+	"youville": {
+		"long": "Dépôt Youville",
+		"court": "Youville"
 	}
 }
