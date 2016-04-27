@@ -1,90 +1,86 @@
 {
-	"am": {
-		"long": "Bibliothèque d'aménagement",
-		"court": "Aménagement"
-	},
-	"antenne-paramedicale": {
-		"long": "Antenne paramédicale - 7077 avenue du Parc",
-		"court": "7077 avenue du Parc"
-	},
-	"bv": {
-		"long": "Bibliothèque de botanique",
-		"court": "Botanique"
-	},
-	"cartotheque": {
-		"long": "Cartothèque",
-		"court": "Cartothèque"
-	},
-	"ch": {
-		"long": "Bibliothèque de chimie",
-		"court": "Chimie"
-	},
-	"conservation": {
-		"long": "Centre de conservation",
-		"court": "Centre de conservation"
-	},
-	"cs": {
-		"long": "Bibliothèque des livres rares et collections spéciales",
-		"court": "Livres rares et collections spéciales"
-	},
-	"dr": {
-		"long": "Bibliothèque de droit",
-		"court": "Droit"
-	},
-	"ed": {
-		"long": "Bibliothèque ÉPC-Biologie",
-		"court": "ÉPC-Biologie"
-	},
-	"gp": {
-		"long": "Bibliothèque de géographie",
-		"court": "Géographie"
-	},
-	"ki": {
-		"long": "Bibliothèque de kinésiologie",
-		"court": "Kinésiologie"
-	},
-	"laval": {
-		"long": "Campus de Laval",
-		"court": "Laval"
-	},
-	"mi": {
-		"long": "Bibliothèque de mathématiques et informatique",
-		"court": "Math / Info"
-	},
-	"mu": {
-		"long": "Bibliothèque de musique",
-		"court": "Musique"
-	},
-	"mv": {
-		"long": "Bibliothèque de médecine vétérinaire",
-		"court": "Médecine vétérinaire"
-	},
-	"op": {
-		"long": "Bibliothèque d'optométrie",
-		"court": "Optométrie"
-	},
-	"pa": {
-		"long": "Bibliothèque paramédicale",
-		"court": "Paramédicale"
-	},
-	"pb": {
-		"long": "Service du prêt entre bibliothèques",
-		"court": "PEB"
-	},
-	"py": {
-		"long": "Bibliothèque de physique",
-		"court": "Physique"
-	},
-	"sa": {
-		"long": "Bibliothèque de la santé",
-		"court": "Santé"
-	},
-	"ss": {
-		"long": "Bibliothèque des lettres et sciences humaines",
-		"court": "Lettres et sciences humaines"
-	},
-	"youville": {
-		"long": "Dépôt Youville",
-		"court": "Youville"
-	}
+    "am": {
+        "long": "Bibliothèque d'aménagement",
+        "court": "Aménagement"
+    },
+    "antenne-paramedicale": {
+        "long": "Antenne paramédicale - 7077 avenue du Parc",
+        "court": "7077 avenue du Parc"
+    },
+    "bv": {
+        "long": "Bibliothèque de botanique",
+        "court": "Botanique"
+    },
+    "cartotheque": {
+        "long": "Cartothèque",
+        "court": "Cartothèque"
+    },
+    "ch": {
+        "long": "Bibliothèque de chimie",
+        "court": "Chimie"
+    },
+    "conservation": {
+        "long": "Centre de conservation",
+        "court": "Centre de conservation"
+    },
+    "cs": {
+        "long": "Bibliothèque des livres rares et collections spéciales",
+        "court": "Livres rares et collections spéciales"
+    },
+    "dr": {
+        "long": "Bibliothèque de droit",
+        "court": "Droit"
+    },
+    "ed": {
+        "long": "Bibliothèque ÉPC-Biologie",
+        "court": "ÉPC-Biologie"
+    },
+    "gp": {
+        "long": "Bibliothèque de géographie",
+        "court": "Géographie"
+    },
+    "ki": {
+        "long": "Bibliothèque de kinésiologie",
+        "court": "Kinésiologie"
+    },
+    "laval": {
+        "long": "Campus de Laval",
+        "court": "Laval"
+    },
+    "mi": {
+        "long": "Bibliothèque de mathématiques et informatique",
+        "court": "Math / Info"
+    },
+    "mu": {
+        "long": "Bibliothèque de musique",
+        "court": "Musique"
+    },
+    "mv": {
+        "long": "Bibliothèque de médecine vétérinaire",
+        "court": "Médecine vétérinaire"
+    },
+    "pa": {
+        "long": "Bibliothèque paramédicale",
+        "court": "Paramédicale"
+    },
+    "pb": {
+        "long": "Service du prêt entre bibliothèques",
+        "court": "PEB"
+    },
+    "py": {
+        "long": "Bibliothèque de physique",
+        "court": "Physique"
+    },
+    "sa": {
+        "long": "Bibliothèque de la santé",
+        "court": "Santé"
+    },
+    "ss": {
+        "long": "Bibliothèque des lettres et sciences humaines",
+        "court": "Lettres et sciences humaines"
+    },
+    "youville": {
+        "long": "Dépôt Youville",
+        "court": "Youville"
+    }
 }
