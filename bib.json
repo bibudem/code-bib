@@ -2,77 +2,77 @@
 	"am": {
 		"long": "Bibliothèque d'aménagement",
 		"court": "Aménagement",
-		"url": "https://bib.umontreal.ca/bibliotheques/amenagement"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/amenagement"
 	},
 	"antenne-paramedicale": {
 		"long": "Antenne paramédicale - 7077 avenue du Parc",
 		"court": "7077 avenue du Parc",
-		"url": "https://bib.umontreal.ca/bibliotheques/7077"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/antenne-paramedicale"
 	},
 	"cartotheque": {
 		"long": "Cartothèque",
 		"court": "Cartothèque",
-		"url": "https://bib.umontreal.ca/bibliotheques/cartotheque"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/cartotheque"
 	},
 	"ch": {
 		"long": "Bibliothèque de chimie",
 		"court": "Chimie",
-		"url": "https://bib.umontreal.ca/bibliotheques/chimie"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/chimie"
 	},
 	"conservation": {
 		"long": "Centre de conservation",
 		"court": "Centre de conservation",
-		"url": "https://bib.umontreal.ca/bibliotheques/centre-conservation"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/centre-conservation"
 	},
 	"cs": {
 		"long": "Bibliothèque des livres rares et collections spéciales",
 		"court": "Livres rares et collections spéciales",
-		"url": "https://bib.umontreal.ca/bibliotheques/livres-rares-collections-speciales"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/livres-rares-collections-speciales"
 	},
 	"dr": {
 		"long": "Bibliothèque de droit",
 		"court": "Droit",
-		"url": "https://bib.umontreal.ca/bibliotheques/droit"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/droit"
 	},
 	"ed": {
 		"long": "Bibliothèque ÉPC-Biologie",
 		"court": "ÉPC-Biologie",
-		"url": "https://bib.umontreal.ca/bibliotheques/epc-biologie"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/epc-biologie"
 	},
 	"gp": {
 		"long": "Bibliothèque de géographie",
 		"court": "Géographie",
-		"url": "https://bib.umontreal.ca/bibliotheques/geographie"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/geographie"
 	},
 	"ki": {
 		"long": "Bibliothèque de kinésiologie",
 		"court": "Kinésiologie",
-		"url": "https://bib.umontreal.ca/bibliotheques/kinesiologie"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/kinesiologie"
 	},
 	"laval": {
 		"long": "Campus de Laval",
 		"court": "Laval",
-		"url": "https://bib.umontreal.ca/bibliotheques/laval"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/laval"
 	},
 	"mi": {
 		"long": "Bibliothèque de mathématiques et informatique",
 		"court": "Math / Info",
-		"url": "https://bib.umontreal.ca/bibliotheques/mathematiques-informatique"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/mathematiques-informatique"
 	},
 	"mu": {
 		"long": "Bibliothèque de musique",
 		"court": "Musique",
-		"url": "https://bib.umontreal.ca/bibliotheques/musique"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/musique"
 	},
 	"mv": {
 		"long": "Bibliothèque de médecine vétérinaire",
 		"court": "Médecine vétérinaire",
-		"url": "https://bib.umontreal.ca/bibliotheques/medecine-veterinaire"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/medecine-veterinaire"
 	},
 	"pa": {
 		"long": "Bibliothèque paramédicale",
 		"court": "Paramédicale",
-		"url": "https://bib.umontreal.ca/bibliotheques/paramedicale"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/paramedicale"
 	},
 	"pb": {
 		"long": "Service du prêt entre bibliothèques",
@@ -81,17 +81,17 @@
 	"py": {
 		"long": "Bibliothèque de physique",
 		"court": "Physique",
-		"url": "https://bib.umontreal.ca/bibliotheques/physique"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/physique"
 	},
 	"sa": {
 		"long": "Bibliothèque de la santé",
 		"court": "Santé",
-		"url": "https://bib.umontreal.ca/bibliotheques/sante"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/sante"
 	},
 	"ss": {
 		"long": "Bibliothèque des lettres et sciences humaines",
 		"court": "Lettres et sciences humaines",
-		"url": "https://bib.umontreal.ca/bibliotheques/lettres-sciences-humaines"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/lettres-sciences-humaines"
 	},
 	"youville": {
 		"long": "Dépôt Youville",
