@@ -5,9 +5,9 @@
 		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/amenagement"
 	},
 	"antenne-paramedicale": {
-		"long": "Antenne paramédicale - 7077 avenue du Parc",
+		"long": "Antenne – 7077 avenue du Parc",
 		"court": "7077 avenue du Parc",
-		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/antenne-paramedicale"
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/antenne-7077"
 	},
 	"cartotheque": {
 		"long": "Cartothèque",
@@ -70,9 +70,9 @@
 		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/medecine-veterinaire"
 	},
 	"pa": {
-		"long": "Bibliothèque paramédicale",
-		"court": "Paramédicale",
-		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/paramedicale"
+		"long": "Bibliothèque Marguerite-d’Youville",
+		"court": "Marguerite-d’Youville ",
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/marguerite-d-youville"
 	},
 	"pb": {
 		"long": "Service du prêt entre bibliothèques",
@@ -87,6 +87,11 @@
 		"long": "Bibliothèque de la santé",
 		"court": "Santé",
 		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/sante"
+	},
+	"sciences": {
+		"long": "Bibliothèque des sciences",
+		"court": "Sciences",
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/sciences"
 	},
 	"ss": {
 		"long": "Bibliothèque des lettres et sciences humaines",
