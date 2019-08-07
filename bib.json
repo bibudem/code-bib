@@ -20,9 +20,9 @@
 		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/chimie"
 	},
 	"conservation": {
-		"long": "Centre de conservation",
-		"court": "Centre de conservation",
-		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/centre-conservation"
+		"long": "Centre de conservation Lionel-Groulx",
+		"court": "Centre de conservation Lionel-Groulx",
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/centre-conservation-lionel-groulx"
 	},
 	"cs": {
 		"long": "Bibliothèque des livres rares et collections spéciales",
@@ -35,9 +35,9 @@
 		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/droit"
 	},
 	"ed": {
-		"long": "Bibliothèque ÉPC-Biologie",
-		"court": "ÉPC-Biologie",
-		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/epc-biologie"
+		"long": "Bibliothèque ÉPC",
+		"court": "ÉPC",
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/epc"
 	},
 	"gp": {
 		"long": "Bibliothèque de géographie",
