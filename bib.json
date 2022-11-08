@@ -5,9 +5,9 @@
 		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/amenagement"
 	},
 	"antenne-paramedicale": {
-		"long": "Antenne – 7077 avenue du Parc",
-		"court": "7077 avenue du Parc",
-		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/antenne-7077"
+		"long": "Bibliothèque du Parc",
+		"court": "Bibliothèque du Parc",
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/parc"
 	},
 	"cartotheque": {
 		"long": "Cartothèque",
