@@ -11,7 +11,7 @@
 		"name": "Christian Rémillard",
 		"email": "christian.remillard@gmail.com"
 	},
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/bibudem/code-bib/issues"
 	},

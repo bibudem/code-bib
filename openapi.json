@@ -1,0 +1,52 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Codes de bibliothèques",
+    "version": "1.0.0",
+    "description": "Liste des codes de bibliothèques de la Direction des bibliothèques, Université de Montréal",
+    "contact": {
+      "name": "Christian Rémillard",
+      "url": "https://github.com/bibudem/code-bib",
+      "email": "christian.remillard@umontreal.ca"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://raw.githubusercontent.com/bibudem/code-bib/main/LICENSE"
+    }
+  },
+  "components": {
+    "schemas": {
+      "codeBib": {
+        "type": "string",
+        "example": "am",
+        "pattern": "^[a-z-]+$",
+        "description": "Un code de bibliothèque\n\nVoir [https://github.com/bibudem/code-bib](https://github.com/bibudem/code-bib)",
+        "title": "Code de bibliothèque",
+        "enum": [
+          "am",
+          "antenne-paramedicale",
+          "cartotheque",
+          "marcel-laurin",
+          "ch",
+          "conservation",
+          "cs",
+          "dr",
+          "ed",
+          "gp",
+          "ki",
+          "laval",
+          "mi",
+          "mu",
+          "mv",
+          "pa",
+          "pb",
+          "py",
+          "sa",
+          "sciences",
+          "ss",
+          "youville"
+        ]
+      }
+    }
+  }
+}
