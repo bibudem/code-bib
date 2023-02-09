@@ -19,6 +19,7 @@
     "schemas": {
       "codeBib": {
         "type": "string",
+        "required": true,
         "example": "am",
         "pattern": "^[a-z-]+$",
         "description": "Un code de bibliothèque\n\nVoir [https://github.com/bibudem/code-bib](https://github.com/bibudem/code-bib)",
