@@ -2,7 +2,7 @@
 	"name": "code-bib",
 	"version": "9.0.0",
 	"description": "Une liste des codes de bibliothèques de l'Université de Montréal.",
-	"main": "bib.json",
+	"main": "index.js",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/bibudem/code-bib.git"
