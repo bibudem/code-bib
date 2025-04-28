@@ -1,6 +1,6 @@
 {
 	"name": "code-bib",
-	"version": "9.1.0",
+	"version": "9.2.0",
 	"description": "Une liste des codes de bibliothèques de l'Université de Montréal.",
 	"main": "index.js",
 	"repository": {
