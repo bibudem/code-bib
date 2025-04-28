@@ -105,6 +105,7 @@
 	},
 	"youville": {
 		"long": "Bibliothèque Marguerite-d'Youville",
-		"court": "Marguerite-d'Youville"
+		"court": "Marguerite-d'Youville",
+		"url": "https://bib.umontreal.ca/travailler/les-bibliotheques/marguerite-d-youville"
 	}
 }
