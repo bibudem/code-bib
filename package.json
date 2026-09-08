@@ -11,6 +11,7 @@
 		"name": "Christian Rémillard",
 		"email": "christian.remillard@gmail.com"
 	},
+	"type": "module",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/bibudem/code-bib/issues"
